@@ -1,0 +1,8 @@
+{
+  "name": "HousingBlacklist",
+  "creator": "Hainjku",
+  "description": "&c[HousingBlacklist] &7The Housing Blacklist module is a powerful tool designed to help housing owners and staff maintain a safe and enjoyable environment in their housings.",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": ["axios", "Vigilance", "PromiseV2"]
+}
